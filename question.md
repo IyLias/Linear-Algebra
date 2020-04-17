@@ -29,3 +29,6 @@ Is this right based on definition of (n,M,d) code?
 and if I'm right, why only use 2-(2,4,1) code ?
 
 Is it because we are only interested in maximum M s.t. satisfies definition of (n,M,d) code? 
+
+* ( related with theorem " d is odd , existence of (n,M,d) code iff. existence of (n+1,M,d+1) code" and "d is odd, A2(n+1,d+1) = A2(n,d)
+and d is even, A2(n,d) = A2(n-1,d-1)" )
