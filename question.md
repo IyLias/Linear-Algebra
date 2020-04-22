@@ -32,3 +32,12 @@ Is it because we are only interested in maximum M s.t. satisfies definition of (
 
 * ( related with theorem " d is odd , existence of (n,M,d) code iff. existence of (n+1,M,d+1) code" and "d is odd, A2(n+1,d+1) = A2(n,d)
 and d is even, A2(n,d) = A2(n-1,d-1)" )
+
+## Reference
+
+- [Singleton Bound](https://en.wikipedia.org/wiki/Singleton_bound)
+
+  - https://math.stackexchange.com/questions/682609/prove-a-q3-2-q2-for-all-q-ge-2
+
+
+
